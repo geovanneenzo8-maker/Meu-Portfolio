@@ -69,7 +69,6 @@ public class Main {
                     System.out.println("Total acumulado de horas jogadas: %.1fh" + total);
                     break;
                 case 0:
-                    System.out.println("Encerrando o programa. Até a próxima!");
                     break;
 
                 default:
