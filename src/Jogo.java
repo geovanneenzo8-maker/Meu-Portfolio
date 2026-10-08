@@ -45,11 +45,6 @@ public class Jogo {
 
     @Override
     public String toString() {
-        return super.toString();
-    }
-
-    public String toString(String titulo, String plataforma, int id) {
         return "ID: " + this.id + "/ Jogo: " + this.titulo + "/ Plataforma: " + this.plataforma + "/ Horas: " + this.horas +"h"  ;
-
     }
 }
